@@ -4,4 +4,4 @@ This repository provides access to the NJU Korean Flyer's PDF file, which shares
 
 ## Download
 
-Please download the `.zip` file and enter the password. The password is securely managed by Professor Yin.
+Please click on the .zip file, and then click the download icon (a downward arrow) located in the top-right corner to start the download. To unlock the .zip file, you will need to enter the password. The password is securely managed by Professor Yin.
